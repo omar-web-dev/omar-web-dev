@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 This is a Omar
+
+##### jonior MERN steak developer
 
 
 ## :computer: Technologies that I know
@@ -13,8 +15,7 @@
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png"/>
 </p><br/>
-### Hi there 👋, This is a Omar 
-#### jonior MERN steak developer
+
 ![jonior MERN steak developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I am a professional MERN steak developer.
